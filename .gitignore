@@ -1,0 +1,6 @@
+/bin/
+.DS_Store
+/vendor/
+composer.phar
+package-install.log
+/node_modules/
